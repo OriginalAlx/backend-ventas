@@ -1,0 +1,6 @@
+com\alx\practicasspring\Venta.class
+com\alx\practicasspring\VentaController.class
+com\alx\practicasspring\VentaRepository.class
+com\alx\practicasspring\RecursoNoEncontradoException.class
+com\alx\practicasspring\ManejadorDeErroresGlobal.class
+com\alx\practicasspring\Practicasspring.class
